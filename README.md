@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-Certainly! I'll format the README with Markdown headers (using `###`) for GitHub compatibility and enhance the text for clarity and impact:
-
----
-
 ### Said Shatila: Android Engineer Extraordinaire 🌟📱
 👋 **Welcome to my tech universe!** I'm an Android developer passionate about creating apps that dazzle and deliver.
 
