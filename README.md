@@ -19,7 +19,7 @@ Certainly! I'll format the README with Markdown headers (using `###`) for GitHub
 
 ### Connect & Collaborate 👥
 - **🤝 Got an exciting idea or project?** Let's make tech magic together!
-- **📬 Reach Out:** SaidShatila@outlook.com | [[LinkedIn Profile URL](https://www.linkedin.com/in/saidshatila/)]
+- **📬 Reach Out:** SaidShatila@outlook.com | https://www.linkedin.com/in/saidshatila/
 - **💬 Open to Chat:** Always ready to talk all things Android and innovation.
 
 _"Crafting the future of mobile, one app at a time!"_ 🚀✨
